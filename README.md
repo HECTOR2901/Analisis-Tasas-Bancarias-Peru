@@ -4,7 +4,7 @@
 
 **Stack técnico:** Python · Pandas · Matplotlib
 
-![Evolución de tasas](grafico_1_evolucion_tasas.png)
+![Evolución de tasas](images/grafico_1_evolucion_tasas.png)
 
 ## Descripción
 
@@ -28,7 +28,7 @@ Este proyecto usa la [API pública de series estadísticas del BCRP](https://est
 - **La pandemia marcó el mínimo histórico:** la tasa interbancaria llegó a 0.11% en septiembre 2020, siguiendo al BCRP en su esfuerzo por reactivar la economía con crédito barato.
 - **El spread bancario se redujo 25% entre 2010 y 2025**, pasando de 17.4 a 13.0 puntos porcentuales en promedio.
 
-![Spread bancario](grafico_2_spread_bancario.png)
+![Spread bancario](images/grafico_2_spread_bancario.png)
 
 ## Conclusión del Proyecto
 
