@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33582838/README.md)
 # 🏦 Tasas de Interés del Sistema Bancario Peruano (2010-2026)
 
 **En una línea:** con 16 años de datos del BCRP medí **cuánto y con qué rezago** las decisiones de política monetaria llegan a las tasas de depósitos y de préstamos, y cómo ha cambiado la brecha entre ambas (spread).
